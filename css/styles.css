@@ -1,6 +1,11 @@
+header {
+    background-color: rgb(122, 112, 124);
+}
+
 .titulo-pg {
-    font-size: 50px;
+    font-size: 35px;
     font-family: 'Montserrat', sans-serif;
+    text-align: center;
 
 }
 
