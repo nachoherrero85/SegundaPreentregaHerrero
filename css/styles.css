@@ -77,13 +77,14 @@ nav {
         margin-top: 10px;
         font-family: 'Montserrat', sans-serif;
         font-size: 20px;
-        text-align: center;
+        text-align: left;
+
     }
 
     #noticia-p {
         margin-top: 5px;
-        max-width: 300px;
-        max-height: 300px;
+        max-width: 290px;
+        max-height: 290px;
     }
 
 }
