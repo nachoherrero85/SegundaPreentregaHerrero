@@ -1,5 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 header {
     background-color: rgb(122, 112, 124);
+}
+
+nav {
+    background-color: rgb(122, 112, 124);
+
 }
 
 .titulo-pg {
@@ -11,4 +21,33 @@ header {
 
 .navbar-brand {
     font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+
+}
+
+
+
+.nav-item {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+
+
+
+
+}
+
+
+
+#menu :hover {
+    background-color: crimson;
+    color: white;
+
+}
+
+#boton {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    color: black;
+    border-color: black;
+
 }
